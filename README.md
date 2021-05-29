@@ -2,14 +2,14 @@
 
 Click CLI tool for greeting.
 
-Options:
---name: required, prompts if not entered. Name to greet. 
---excited: optional. Makes punctuation in to exclamation point.
---spanish: optional. Convert greeting to Spanish 'Hola'.
---shout: optional. Conver to all uppercase.
-
-Usage Examples:
-
+Options:  
+--name: required, prompts if not entered. Name to greet.  
+--excited: optional. Makes punctuation in to exclamation point.  
+--spanish: optional. Convert greeting to Spanish 'Hola'.  
+--shout: optional. Conver to all uppercase.  
+  
+Usage Examples:  
+  
 ```cmd
 greeting
 ```
