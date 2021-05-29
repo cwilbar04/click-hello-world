@@ -1,4 +1,4 @@
-#Simple Click CLI Integration
+# Simple Click CLI Integration
 
 Click CLI tool for greeting.
 
@@ -13,20 +13,19 @@ Usage Examples:
 ```cmd
 greeting
 ```
-Expected output:
-Prompts user for name.
-Output: Hello {Entered Name}.
-
+Expected output:  
+Prompts user for name.  
+Output: Hello {Entered Name}.  
+  
 ```cmd
 greeting --name=Chris --excited --spanish --shout
 ```
-Expected output:
-HOLA CHRIS!
-  
+Expected output:  
+HOLA CHRIS!  
   
 ```cmd
 greeting --excited
 ```
-Expected output:
-Prompts user for name.
-Returns: Hello {Entered Name}!
+Expected output:  
+Prompts user for name.  
+Returns: Hello {Entered Name}!  
